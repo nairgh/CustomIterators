@@ -1,5 +1,7 @@
 Function to calculate power of a number creating Custom Iterators 
+
 eg NumberPower(10) return => 
+
 1
 2
 4
